@@ -1,6 +1,9 @@
 # Yash Alexa
 1St Python Project
 
+First Do This
+Then type code
+
 *For Windows Usr ->
 
 +To speak out, or text to speech pip install pyttsx3
