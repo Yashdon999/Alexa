@@ -27,3 +27,4 @@ Fuck you everyone
 Fuck you anyone
 Fuck you omaya
 Fuck you shashwat
+Fuck you khizar
