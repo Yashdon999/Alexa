@@ -22,3 +22,5 @@ Then type code
 +Install these too - pip3 install pyAudio
 
 In case any error pops up install this - pip3 install portAudio.
+
+Fuck you everyone
