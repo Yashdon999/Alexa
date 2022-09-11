@@ -24,9 +24,3 @@ Then type code
 In case any error pops up install this - pip3 install portAudio.
 
 
-sdjfjklsdjfklsd
-slkdjflksjfljsdlc
-slkjdlksdjcjslkcsdf
-slkjdlsjdcljsljfljsdlfj
-slfjdljflsdjls lsdjflsdjflsdfljslklsd
-lsjcljsklcjksljkladsklfjklasdjfklasjfkjaskl
