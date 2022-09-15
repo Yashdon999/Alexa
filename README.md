@@ -27,3 +27,4 @@ In case any error pops up install this - pip3 install portAudio.
 yasdhjsadlkfj
 asjdfkljasklfjas
 fuck you fuck you
+Fuck you Fuck you Fuck you
