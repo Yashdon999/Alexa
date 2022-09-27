@@ -1,5 +1,5 @@
 # Yash Alexa
-1St Python Project
+Python Project
 
 First Do This
 Then type code
