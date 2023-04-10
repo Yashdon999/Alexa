@@ -1,6 +1,4 @@
 # Yash Alexa
-Hii!
-
 Python Project
 
 First Do This
